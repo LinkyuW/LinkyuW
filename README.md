@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**LinkyuW/LinkyuW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 你好！我是Linkyu，数据科学专业大三学生
 - 🌱 我正在学习：Agent，LoRA微调，深度学习，ABM
@@ -11,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 我的邮箱地址为:peng_xiaoqiao@outlook.com
 - 😄 我同时对艺术、哲学感兴趣
 - ⚡ HAVE FUN
--->
+
